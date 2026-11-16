@@ -13,7 +13,6 @@ Each writeup walks through the full process for a given challenge: reconnaissanc
 | Challenge | Difficulty | Status | Key Vulnerabilities |
 |---|---|---|---|
 | Bobby's Bistro | Medium | ✅ Solved | SQL Injection, Path Traversal, Server-Side Template Injection |
-| _TBD_ | Easy | ✅ Solved | _TBD_ |
 | Socrates Panel | Hard | 🔄 In progress | _TBD_ |
 
 ## Structure
